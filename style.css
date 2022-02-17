@@ -1,0 +1,36 @@
+.bold 
+{
+    font-weight: bold;
+    color: yellow;
+}
+body
+{
+    width: 800px;
+    display: block;
+    margin: auto;
+    background-color: rgb(167,153,153);
+}
+h1
+{
+    font-variant: small-caps;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a.visited
+{
+    color: white;
+}
+a:hover
+{
+    color: red;
+}
+
+div
+{
+    margin: 20px;
+    text-align: justify;
+}
